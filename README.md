@@ -1,13 +1,13 @@
-# Project
+# To Do List
 ### By Rochelle Roberts
 -----
 
 ## Description
-* Project template for C# console apps
-* Unit testing set up too
+* To Do C# console app.
 
 ## Technologies Used
 * C#
+* .NET
 * MSTest
 
 ## Installation
@@ -15,8 +15,9 @@
 * From the project's root directory, open console and type dotnet run
 
 ```sh
-$ git clone 
-$ cd  
+$ git clone https://github.com/rochellev/ToDoList.git
+$ cd  ToDoList
+$ dotnet restore
 $ dotnet run
 ```
 
